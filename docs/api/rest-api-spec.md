@@ -1,6 +1,6 @@
 # Tekton Results REST API Specification
 
-**NOTE:** This documentation is only for refernce, please use [Swaggar UI](https://petstore.swagger.io/) (or similar services) with link to the [openapi spec](openapi.yaml) to see complete information.
+**NOTE:** This documentation is only for reference, please use [Swagger UI](https://petstore.swagger.io/) (or similar services) with link to the [openapi spec](openapi.yaml) to see complete information.
 
 ## Version: v1alpha2
 
